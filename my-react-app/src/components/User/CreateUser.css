@@ -66,15 +66,14 @@
 }
 .user-list-list > ul > li > button {
   margin-left: 10px;
+  padding: 3px 6px;
   background-color: #e6b052;
   border: none;
   margin-bottom: 5px;
+  cursor: pointer;
 }
 .user-list-list > ul > li > button:hover {
-  margin-left: 10px;
-  background-color: #41ac66;
-  border: none;
-  margin-bottom: 5px;
+  background-color: #dc3534;
 }
 
 .user-input input[type="text"],
