@@ -9,6 +9,29 @@
   );
 }
 
+/* CREATE-COMPANY */
+.create-company-heading {
+  font-size: 24px;
+}
+
+/* COMPANY LIST */ 
+.company-list {
+  background-color: #fafafa;
+  border-radius: 4px;
+}
+.btn-company-delete {
+  border: none;
+  border-radius: 4px;
+  padding: 3px 6px;
+  margin-left: 5px;
+  background-color: #c0be4b;
+  cursor: pointer;
+  transition: background-color 0.25s ease;
+}
+.btn-company-delete:hover {
+  background-color: #cd3545;
+}
+
 /*CREATE-USER-PAGE*/
 .user-container {
   border: 2px solid dodgerblue;
