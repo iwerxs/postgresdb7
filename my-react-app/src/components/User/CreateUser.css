@@ -80,7 +80,7 @@
 .user-input input[type="password"],
 .user-dropdown select,
 .company-dropdown select {
-  width: 13rem;
+  width: 15rem;
   padding: 10px;
   border-radius: 8px;
   border: 1px solid #ccc;
