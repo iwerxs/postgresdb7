@@ -46,7 +46,7 @@ const Companies = () => {
 
   return (
     <div className='company-list'>
-      <h2>Companies List</h2>
+      <h2 className='companies-heading'>Companies List</h2>
       {loading && <p>Loading companies...</p>}
       <ul>
         {companies.map((company) => (
