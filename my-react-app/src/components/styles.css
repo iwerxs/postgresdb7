@@ -19,6 +19,9 @@
   background-color: #fafafa;
   border-radius: 4px;
 }
+.companies-heading {
+  margin-left: 5px;
+}
 .btn-company-delete {
   border: none;
   border-radius: 4px;
